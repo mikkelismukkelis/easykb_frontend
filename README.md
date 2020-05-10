@@ -1,1 +1,1 @@
-Test
+Easy Knowledge Base - Frontend
